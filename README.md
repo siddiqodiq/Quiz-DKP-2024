@@ -1,4 +1,5 @@
 # RaceShop
+## this code already patching, so the attack is not effect
 
 How to run :
 
@@ -12,3 +13,4 @@ How to attack :
 ```
 > python3 attack.py
 ```
+
